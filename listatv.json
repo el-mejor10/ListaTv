@@ -108,21 +108,88 @@
     ]
   },
   {
-    "name": "PARAGUAY",
+    "name": "ELIMINATORIAS SUDAMERICANAS MUNDIAL 2026",
     "samples": [
-      
-      {
-        "name": "HD (MP4, H264, Widevine cenc)",
-        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/60fps/bbb-wv-1080/manifest.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+{
+        "name": "TROPICALIA",
+        "uri": "https://testphp07.alwaysdata.net/tropicalia/index.m3u8",
+		"icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0UBKUvOYGq_Ni7wrrLeiQf8NrsD3DQ3w2gebp7vjxrg&s"
       },
       {
-        "name": "4K (MP4, H264, Widevine cenc)",
-        "uri": "https://storage.googleapis.com/exoplayer-test-media-1/60fps/bbb-wv-2160/manifest.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://proxy.uat.widevine.com/proxy?provider=widevine_test"
+        "name": "HEI PY",
+        "uri": "https://testphp07.alwaysdata.net/hei/index.m3u8",
+		"icono": "https://upload.wikimedia.org/wikipedia/commons/1/1a/HeiNetwork.jpg"
+      },
+      {
+        "name": "ATV PERU",
+        "uri": "https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8",
+		"icono": "https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png"
+      },
+      {
+        "name": "ECDF",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6575e2cb849b581480ab260b70ccfab6&key=0b6b8622989104f69b2db91630ed0eaf",
+		"icono": "https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png"
+      },
+{
+        "name": "GEN TV PY",
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/gen.json",
+		"icono": "https://i.postimg.cc/kXRXnQvq/Gen-en-vivo.jpg"
+      },
+      {
+        "name": "DIRECTV",
+        "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1060/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e9bc6a1c64e05c35aa72e12b16d35247&key=07c1735adac15de877df3f81b4fc4731",
+		"icono": "https://i.postimg.cc/FRyDpWz2/ver-directv-sports-en-vivo.png"
+      },
+      {
+        "name": "TYC SPORT",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+		"icono": "https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg"
+      },
+
+      {
+        "name": "TV PUBLICA",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
+		"icono": "https://i.postimg.cc/50CZVS03/ver-tv-publica-canal-7-argentina-en-vivo.jpg"
+      },
+{
+        "name": "TV PUBLICA 2",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5f789ebbb6495578b42267b650574f62&key=0b37b263a0aca7b08f12014b2b7b9248",
+		"icono": "https://i.postimg.cc/50CZVS03/ver-tv-publica-canal-7-argentina-en-vivo.jpg"
+      },
+      {
+        "name": "CARACOL",
+        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1035",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=590eab6833d435ff94cc9a5af93a4319&key=5e73fb08358db634dfb919d853cec46f",
+		"icono": "https://i.ibb.co/vj3Yr5C/c412c0a3e6ed0dc6cbedbfaf4bfd3921.jpg"
+      },
+      {
+        "name": "CHILEVISION",
+        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1040",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b9870e2924a93afba14c1bcd2f02c6b2&key=f98bda8234d3f2397cc1e5ca35c2c34c",
+		"icono": "https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg"
+      },
+      {
+        "name": "AMERICA TV",
+        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1011",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b9fc5a15382b35818904ecbeed545fd0&key=8b4d83e2c382780ca615ce6cd6754d79",
+		"icono": "https://i.ibb.co/bPKWXGc/america.jpg"
       }
+      
     ]
   },
   {
