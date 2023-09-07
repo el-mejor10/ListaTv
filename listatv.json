@@ -7,6 +7,12 @@
         "uri": "https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd"
       },
       {
+        "name": "AMERICA SPORT",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://listasm3u.live/keys2/americas.json"
+      },
+      {
         "name": "HBO 2",
         "uri": "https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd"
       },
