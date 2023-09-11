@@ -3,9 +3,10 @@
         "name": "EVENTOS STAR+",
         "samples": [
             {
-                "name": "ESLOVENIA vs. UCRANIA (CCUARTOS DE FINAL)",
+                "name": "Eslovenia vs. Ucrania (Cuartos de Final)",
                 "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/11/Slovenia_vs_Ukraine_Quart_20230911_1694437200340/ctr-all-complete.m3u8",
                 "drm_scheme": "widevine",
+                "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/14C65DDFC3463F557134B2C269D16673B35DE13D89F24ACE6691E5D6BE251AFB/scale?width=320",
                 "drm_license_uri": "http://pedorro.duckdns.org/star"
             }
         ]
