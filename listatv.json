@@ -3,11 +3,34 @@
         "name": "EVENTOS STAR+",
         "samples": [
             {
-                "name": "Eslovenia vs. Ucrania (Cuartos de Final)",
-                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/11/Slovenia_vs_Ukraine_Quart_20230911_1694437200340/ctr-all-complete.m3u8",
+                "name": "Armenia vs. Croacia",
+                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/11/Armenia_vs_Croatia_20230911_1694442052039/ctr-all-complete.m3u8",
                 "drm_scheme": "widevine",
-                "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/14C65DDFC3463F557134B2C269D16673B35DE13D89F24ACE6691E5D6BE251AFB/scale?width=320",
-                "drm_license_uri": "http://pedorro.duckdns.org/star"
+                "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
+            },
+            {
+                "name": "Letonia vs. Gales",
+                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/11/Letonia_vs_Gales_20230911_1694451937016/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
+            },
+            {
+                "name": "Islandia vs. Bosnia-Herzegovina",
+                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/11/Islandia_vs_BosniaHerzego_20230911_1694451915047/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
+            },
+            {
+                "name": "Portugal vs. Luxemburgo",
+                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/11/Portugal_vs_Luxemburgo_20230911_1694451649016/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
+            },
+            {
+                "name": "Eslovaquia vs. Liechtenstein",
+                "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/11/Eslovaquia_vs_Liechtenste_20230911_1694451642025/ctr-all-complete.m3u8",
+                "drm_scheme": "widevine",
+                "drm_license_uri": "http://pedorro.duckdns.org/star/index.php"
             }
         ]
     }
